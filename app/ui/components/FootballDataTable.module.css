@@ -1,0 +1,28 @@
+/* styles/FootballDataTable.module.css */
+.container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.container th, .container td {
+    border: 1px solid blueviolet;
+    padding: 8px;
+    text-align: center;
+}
+
+.container th {
+    background-color: green;
+}
+
+.container tr:nth-child(even) {
+    background-color: purple;
+}
+
+.container tr:hover {
+    background-color: yellowgreen;
+}

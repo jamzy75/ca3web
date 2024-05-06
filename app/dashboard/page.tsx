@@ -1,6 +1,7 @@
 // Import necessary dependencies
 import React from 'react';
 
+
 // Define the Page component
 export default function Page() {
     return (

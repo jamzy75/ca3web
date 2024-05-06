@@ -3,16 +3,16 @@ import Accordion from '../components/Accordion.js';
 
 const items = [
   {
-    title: 'What is React?',
-    content: 'React is a JavaScript library for building user interfaces.',
+    title: 'What is Football?',
+    content: 'The best sport in the world.',
   },
   {
-    title: 'Why use React?',
-    content: 'React allows developers to create reusable UI components.',
+    title: 'Who is the all-time leading goal scorer in the history of the Premier League?',
+    content: 'As of my last update, Alan Shearer holds the record for the most goals scored in the history of the Premier League. He scored a total of 260 goals during his career, primarily playing for Blackburn Rovers and Newcastle United.',
   },
   {
-    title: 'How do you use React?',
-    content: 'You can use React by installing it via npm and then importing its components.',
+    title: 'Which club has won the most Premier League titles?',
+    content: ' Manchester United holds the record for the most Premier League titles, with a total of 13 championships',
   },
 ];
 

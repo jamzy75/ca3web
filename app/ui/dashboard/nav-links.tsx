@@ -22,6 +22,8 @@ const links = [
 
   { name: 'DataTable', href: '/dashboard/dataTable', icon: DocumentDuplicateIcon },
 
+ 
+
 ];
 
 export default function NavLinks() {
